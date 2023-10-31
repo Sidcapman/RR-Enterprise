@@ -1,4 +1,4 @@
-/* Projects.css */
+
 @font-face {
   font-family: Noto-sans;
   src: local('Noto-sans'),url("./Fonts/Noto_Sans/NotoSans-Medium.ttf");
@@ -9,8 +9,6 @@
   align-items: center;
   padding: 20px;
   font-family: Noto-sans !important;
-  /* background: linear-gradient(to right, #ADD8E6, #95e1d8); */
-/* background:url(cool-background\ \(1\).png); */
 background-color: #e5e5f7;
 opacity: 0.8;
 background-image:  radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
@@ -31,7 +29,7 @@ background-position: 0 0,10px 10px;
 .project-image img {
   max-width: 200px;
   max-height: 200px;
-  border-radius: 20px; /* Rounded image corners */
+  border-radius: 20px; 
   margin-right: 20px;
 }
 

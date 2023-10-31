@@ -1,10 +1,10 @@
 import React from "react";
-import "./AriesDrone.css"; // Create this CSS file to style the component
+import "./AriesDrone.css";
 import AriesDrone2 from "./Ariesdrone2.PNG";
 import AriesDrone1 from "./AriesDrone.PNG";
 import IMG1 from "./IMG_8043.PNG";
 import IMG2 from "./IMG_9322.JPG";
-import "./AriesDrone.css"; // Create this CSS file to style the component
+import "./AriesDrone.css"; 
 
 const AriesDrone = () => {
   return (

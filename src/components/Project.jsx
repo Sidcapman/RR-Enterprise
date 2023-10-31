@@ -1,5 +1,5 @@
 import React from "react";
-import "./Project.css"; // Create this CSS file to style the component
+import "./Project.css";
 import MYROrobot from "./MYROrobot.JPG";
 import AriesDrone from "./AriesDrone.PNG";
 import AriesDrone2 from "./Ariesdrone2.PNG";

@@ -15,7 +15,7 @@
 }
 
 .step-image img {
-  border-radius: 50%; /* Create circular images */
+  border-radius: 50%;
   width: 200px;
   height: 200px;
   object-fit: cover;
@@ -24,5 +24,3 @@
 .arrow {
   font-size: 24px;
 }
-
-/* Add more CSS styles to customize the design */

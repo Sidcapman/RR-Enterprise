@@ -17,7 +17,7 @@
   justify-content:center; /* Align content to the bottom */
   align-items: center;
   padding: 2rem;
-  color: #000000; /* Text color */
+  color: #000000; 
 }
 
 .left-col {
@@ -42,11 +42,11 @@
 }
 
 .robotic-hand-image {
-  position: relative; /* Add absolute positioning to the image */
-  bottom: 2rem; /* Adjust top position as needed */
-  right: auto; /* Adjust right position as needed */
-  width: 90%; /* Set the width of the image */
-  height: 700px; /* Maintain aspect ratio */
-  z-index: 1; /* Ensure the image appears above the background */
+  position: relative; 
+  bottom: 2rem;
+  right: auto;
+  width: 90%; 
+  height: 700px; 
+  z-index: 1; 
   object-fit: cover;
 }

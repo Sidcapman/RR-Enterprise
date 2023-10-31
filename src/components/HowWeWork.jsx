@@ -1,5 +1,5 @@
 import React from "react";
-import "./HowWeWork.css"; // Import your CSS file
+import "./HowWeWork.css"; 
 import manufacture from "./manufacture.jpg";
 import assembly from "./assembly.jpeg";
 import technicalsupport from "./technicalsupport.jpeg";

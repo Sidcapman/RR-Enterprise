@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import "./Welcomepage.css"; // Create this CSS file to style the component
+import "./Welcomepage.css";
 import robotichand from "./robotichand.jpg";
 function WelcomePage() {
   return (
@@ -22,7 +22,7 @@ function WelcomePage() {
         </Container>
       </div>
       <img
-        src={robotichand} // Path to your robotic hand image
+        src={robotichand}
         alt="Robotic Hand"
         className="robotic-hand-image"
       />
