@@ -107,3 +107,15 @@ h1{
     padding: 10px 0px 20px 0px;
     opacity: 100%;
 }
+
+.instagram-icon {
+  border-radius: 50%;
+  width: 150px; 
+  height: 150px;
+}
+
+.social-icon{
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+}

@@ -38,6 +38,14 @@ background-position: 0 0,10px 10px;
   width: 500px;
 }
 
+.project-link{
+  text-decoration: none; 
+  color: inherit;
+}
+
+.partner-link a:hover {
+  text-decoration: underline; 
+}
 .project-about{
   display: flex;
   flex-direction: column;

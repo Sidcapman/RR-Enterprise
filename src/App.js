@@ -1,5 +1,4 @@
 import "./App.css";
-// import NavigationBar from "./components/NavgationBar";
 import "bootstrap/dist/css/bootstrap.min.css";
 import NavigationBar from "./components/NavigationBar";
 import Welcomepage from "./components/Welcomepage";

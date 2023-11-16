@@ -6,7 +6,7 @@ import AriesDrone2 from "./Ariesdrone2.PNG";
 
 const Projects = () => {
   return (
-    <div className="projects-container">
+    <div className="projects-container" id="projects">
       <h1 className="live-project-title">Live Projects</h1>
       <div className="project">
         <div className="project-image">
@@ -14,7 +14,14 @@ const Projects = () => {
         </div>
         <div className="project-content">
           <div className="project-about">
-            <h2>Aries Drones</h2>
+            <a
+              className="project-link"
+              href="https://www.ariessol.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h2>Aries Drones</h2>
+            </a>
           </div>
         </div>
       </div>
@@ -34,7 +41,14 @@ const Projects = () => {
         </div>
         <div className="project-content">
           <div className="project-about">
-            <h2>MYRO</h2>
+            <a
+              className="project-link"
+              href="https://myro.bot/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h2>MYRO</h2>
+            </a>
           </div>
         </div>
       </div>

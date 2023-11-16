@@ -17,10 +17,10 @@ function NavigationBar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav style={navlinks}>
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#link">About Us</Nav.Link>
-            <Nav.Link href="#link">Live Projects</Nav.Link>
-            <Nav.Link href="#link">Our Partner</Nav.Link>
-            <Nav.Link href="#link">Contact Information</Nav.Link>
+            <Nav.Link href="#howWeWork">How We Work</Nav.Link>
+            <Nav.Link href="#projects">Live Projects</Nav.Link>
+            <Nav.Link href="#partners">Our Partner</Nav.Link>
+            <Nav.Link href="#contactInfo">Contact Info</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

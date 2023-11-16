@@ -58,3 +58,7 @@ background-size: cover;
     font-size: 16px;
     color: rgb(26, 26, 26);
 }
+.partner-link{
+  text-decoration: none; 
+  color: inherit;
+}

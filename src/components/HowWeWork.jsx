@@ -5,7 +5,7 @@ import assembly from "./assembly.jpeg";
 import technicalsupport from "./technicalsupport.jpeg";
 const HowWeWork = () => {
   return (
-    <div>
+    <div id="howWeWork">
       <div>
         <h2>How We Work</h2>
       </div>
